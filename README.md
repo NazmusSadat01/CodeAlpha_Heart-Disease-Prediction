@@ -34,7 +34,8 @@ Models were evaluated using Accuracy, ROC-AUC, F1 Score, and Cross-Validation Ac
 # Result
 The analysis trained four classification models, with Logistic Regression emerging as the best performer based on ROC-AUC, achieving an AUC of 0.9948 and an accuracy of 0.9650.
 
-<img width="1553" height="537" alt="resulrt" src="https://github.com/user-attachments/assets/288e0044-840d-42ca-a410-8face770a466" />
+<img width="1557" height="561" alt="Screenshot 2026-05-06 210950" src="https://github.com/user-attachments/assets/b3574905-8a75-4dbf-a9af-5f291abafeb9" />
+
 
 
 
